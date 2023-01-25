@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-link:hover{
+    color: rgb(74, 184, 143);
+    text-decoration: underline;
+    box-shadow: 1px 10px 10px 2px gray;
+}
